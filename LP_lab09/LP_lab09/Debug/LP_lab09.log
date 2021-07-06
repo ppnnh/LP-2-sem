@@ -1,0 +1,4 @@
+﻿  LP_lab09.cpp
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab09\LP_lab09\LP_lab09.cpp(26,62): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab09\LP_lab09\LP_lab09.cpp(28,112): warning C4305: аргумент: усечение из "double" в "float"
+  LP_lab09.vcxproj -> C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab09\Debug\LP_lab09.exe
