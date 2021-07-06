@@ -1,0 +1,5 @@
+﻿  FST.cpp
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab12\LP_lab12\FST.cpp(64,36): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+  LP_lab12.cpp
+  Создание кода...
+  LP_lab12.vcxproj -> C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab12\Debug\LP_lab12.exe
