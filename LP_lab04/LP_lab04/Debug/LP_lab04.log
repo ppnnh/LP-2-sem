@@ -1,0 +1,6 @@
+﻿  LP_lab04.cpp
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab04\LP_lab04\LP_lab04.cpp(50,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab04\LP_lab04\LP_lab04.cpp(51,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab04\LP_lab04\LP_lab04.cpp(54): warning C4723: возможное деление на 0
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab04\LP_lab04\LP_lab04.cpp(55): warning C4723: возможное деление на 0
+  LP_lab04.vcxproj -> C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab04\Debug\LP_lab04.exe

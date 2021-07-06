@@ -1,0 +1,18 @@
+﻿  LP_lab06.cpp
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab06\LP_lab06\LP_lab06.cpp(85,17): warning C4838: Преобразование из "int" в "fio" требует сужающего преобразования.
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab06\LP_lab06\LP_lab06.cpp(85,46): warning C4305: инициализация: усечение из "int" в "fio"
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab06\LP_lab06\LP_lab06.cpp(85,17): warning C4309: инициализация: усечение константного значения
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab06\LP_lab06\LP_lab06.cpp(85,31): warning C4838: Преобразование из "int" в "specialnost" требует сужающего преобразования.
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab06\LP_lab06\LP_lab06.cpp(85,46): warning C4305: инициализация: усечение из "int" в "specialnost"
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab06\LP_lab06\LP_lab06.cpp(85,31): warning C4309: инициализация: усечение константного значения
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab06\LP_lab06\LP_lab06.cpp(85,42): warning C4838: Преобразование из "double" в "sredniy_ball" требует сужающего преобразования.
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab06\LP_lab06\LP_lab06.cpp(85,42): warning C4244: инициализация: преобразование "double" в "sredniy_ball", возможна потеря данных
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab06\LP_lab06\LP_lab06.cpp(86,17): warning C4838: Преобразование из "int" в "fio" требует сужающего преобразования.
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab06\LP_lab06\LP_lab06.cpp(86,46): warning C4305: инициализация: усечение из "int" в "fio"
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab06\LP_lab06\LP_lab06.cpp(86,17): warning C4309: инициализация: усечение константного значения
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab06\LP_lab06\LP_lab06.cpp(86,31): warning C4838: Преобразование из "int" в "specialnost" требует сужающего преобразования.
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab06\LP_lab06\LP_lab06.cpp(86,46): warning C4305: инициализация: усечение из "int" в "specialnost"
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab06\LP_lab06\LP_lab06.cpp(86,31): warning C4309: инициализация: усечение константного значения
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab06\LP_lab06\LP_lab06.cpp(86,42): warning C4838: Преобразование из "double" в "sredniy_ball" требует сужающего преобразования.
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab06\LP_lab06\LP_lab06.cpp(86,42): warning C4244: инициализация: преобразование "double" в "sredniy_ball", возможна потеря данных
+  LP_lab06.vcxproj -> C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab06\Debug\LP_lab06.exe

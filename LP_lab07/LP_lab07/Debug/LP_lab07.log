@@ -1,0 +1,9 @@
+﻿  Dicrtionary.cpp
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab07\LP_lab07\Dicrtionary.cpp(59,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab07\LP_lab07\Dicrtionary.cpp(75,23): warning C4018: <: несоответствие типов со знаком и без знака
+  LP_lab07.cpp
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab07\LP_lab07\stdafx.h(13,1): warning C4005: TEST_DICTIONARY: изменение макроопределения
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab07\LP_lab07\LP_lab07.cpp : message : см. предыдущее определение "TEST_DICTIONARY"
+  Создание кода...
+C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab07\LP_lab07\Dicrtionary.cpp(83): warning C4715: Dictionary::GetEntry: значение возвращается не при всех путях выполнения
+  LP_lab07.vcxproj -> C:\Users\Lenovo\Desktop\2 сем\ЯП\лабы\LP_lab07\Debug\LP_lab07.exe
